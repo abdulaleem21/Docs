@@ -15,7 +15,7 @@ There are several models such as:
 ## TCP/ IP FIVE LAYER MODEL
 ![TCP IP image](TCP IP Model.png)
 
-![TCP IP diagram](https://github.com/abdulaleem21/Docs/blob/main/networking/TCP%20%20IP%20example.png)
+![TCP IP diagram](TCP IP example.png)
 
 ### Basics of networking devices
 
@@ -98,7 +98,7 @@ Uses Ethernet protocol.  Ethernet protocol controls the transmission of data bet
 
 #### Dissecting the ethernet frame
 
-![Ethernet frame](https://github.com/abdulaleem21/Docs/blob/main/networking/Ethernet%20frame.png)
+![Ethernet frame](Ethernet frame.png)
 
 
 
