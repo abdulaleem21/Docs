@@ -15,4 +15,4 @@ include:
   - notes.md
   - networking/notes.md
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
