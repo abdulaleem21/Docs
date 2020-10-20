@@ -13,9 +13,10 @@ There are several models such as:
 - OSI model
 
 ## TCP/ IP FIVE LAYER MODEL
-![TCP IP image](TCP IP Model.png)  
+![TCP IP image](TCP%20IP%20Model.png)
 
-![TCP IP diagram](TCP IP example.png)
+
+![TCP IP diagram](TCP%20%20IP%20example.png)
 
 ### Basics of networking devices
 
@@ -98,7 +99,7 @@ Uses Ethernet protocol.  Ethernet protocol controls the transmission of data bet
 
 #### Dissecting the ethernet frame
 
-![Ethernet frame](Ethernet frame.png)
+![Ethernet frame](Ethernet%20frame.png)
 
 ### 3. Network layer
 
@@ -116,9 +117,19 @@ In anetwork different nodes share information with each other using MAC address.
   
 #### IP datagaram and encapsulation
 
-![IP datagram](IP datagram.png)  
+![IP datagram](IP%20datagram.png)  
 
 The IP datagram is the payload of the Ethernet frame. Like this way, every layer adds headers as the data passes down the layers. This process is called**Encapsulation**.  
 ![Encapsulation](encapsulation.png)
 
+#### IP addresses classes
+
+There are 3 types of classes of IP addresses. 
+| Class | Network IDs | First bit | First octet range | Max host |
+| ----- | -------- | ------- | ------- | ----- |
+| A | only 1st octet | 0 | 0-126 | 16 mill |
+| B | 1st 2 octets | 10 | 128-191 | 64 K |
+| C | 1st 3 octets | 110 | 192-224 | 254 |
+
+#### Address resolution protocol
 
