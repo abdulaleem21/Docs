@@ -1,3 +1,3 @@
 # Notes
 
-[Computer networking](notes.md)
+[Computer networking](networking/notes.md)
