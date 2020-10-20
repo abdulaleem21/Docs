@@ -124,7 +124,8 @@ The IP datagram is the payload of the Ethernet frame. Like this way, every layer
 
 #### IP addresses classes
 
-There are 3 types of classes of IP addresses. 
+There are 3 types of classes of IP addresses.   
+
 | Class | Network IDs | First bit | First octet range | Max host |
 | ----- | -------- | ------- | ------- | ----- |
 | A | only 1st octet | 0 | 0-126 | 16 mill |
