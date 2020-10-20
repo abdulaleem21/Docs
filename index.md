@@ -1,3 +1,3 @@
 # Notes
 
-[Computer networking](https://raw.githubusercontent.com/abdulaleem21/Docs/main/networking/notes.md)
+[Computer networking](https://github.com/abdulaleem21/Docs/blob/main/networking/notes.html)
