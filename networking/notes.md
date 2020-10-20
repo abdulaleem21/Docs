@@ -114,6 +114,10 @@ In anetwork different nodes share information with each other using MAC address.
   - Static
   - Dynamic : When assigned by **DHCP**.
   In general, IP addreses of servers will be static, and those of clients will be dynamic. (With some exceptions)
+  - IP address has 3 ID's
+    - Network ID
+    - Host ID
+    - Subnet ID
   
 #### IP datagaram and encapsulation
 
@@ -134,3 +138,22 @@ There are 3 types of classes of IP addresses.
 
 #### Address resolution protocol
 
+Once the IP datagram is ready, it needs to encapsulated in the Ethernet frame. For this, the transmitting device must know the MAC address of the device it needs to deliver the info to. This is where ARP comes into play.  
+
+**ARP** is used to discover the hardware address (MAC) of a node with a certaim IP address.The host device will send an ARP broadcast for an IP address, and the device with the corresponding IP will give an ARP response with the MAC address. The device will store the MAC in the ARP table (which contains the IP addresses and the associated MAC addresses). But ARP tabel expires after some time. 
+
+#### Subnetting
+
+The process of taking a large network and splitting it up into many individual and samller subnetworks, or subnets. 
+
+Each subnet will have have it's own gateway router. The gateway router is the entry and exit point for the network. 
+
+#### Subnet masks
+
+In general, the IP address have 3 IDs. The network ID, the host ID, and the subnet ID. The core routers only care about the network ID and deliver the data to the network's router. The router looks up additional information in the IP address to forward the info. Finally the Host ID is used to deliver the info. 
+
+The subnet IDs are calculated with **subnet masks** which are 32 bitnumbers written as 4 octets of decimals. 
+
+Subnet masks are used to differentiate between network ID and host ID of an IP address. 
+
+![subnet mast](subnetmask.png)
