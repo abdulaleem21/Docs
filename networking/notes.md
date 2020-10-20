@@ -54,7 +54,7 @@ A node can be either a server or a client. The terminology depends on it's purpo
 - **Client**:  
   gets information from a server  
 
-### Physical layer
+### 1. Physical layer
 
 - Bit  
   The smallest representation of data that a computer can understand; it's a one or zero.  
@@ -79,7 +79,7 @@ Twisted pair network cables end in plugs.
 - Network ports  
   Directly connected to the devices in the network.  
 
-### Data link layer
+### 2. Data link layer
 
 Uses Ethernet protocol.  Ethernet protocol controls the transmission of data between nodes. It uses two things to do this: CSMA/ CD and HMAC.
 - **CSMA/CD**  
@@ -100,8 +100,25 @@ Uses Ethernet protocol.  Ethernet protocol controls the transmission of data bet
 
 ![Ethernet frame](Ethernet frame.png)
 
+### 3. Network layer
 
+In anetwork different nodes share information with each other using MAC address. But MAC address are not feasible to deal with on a larger scale. So network layer comes into play. It uses IP to share information.
 
+#### IP Address
+
+- IP addresses are 4 bytes or 32 bits long.  
+- IP addresses are assigned for networks and not for computers. A laptop will have the same MAC address always, but different IP addresses depending on the network it is connected to. 
+- IP addresses have a heirarchial aspect.Ex: All of IBM's networks begin with 9.
+- IP addresses are of two types:
+  - Static
+  - Dynamic : When assigned by **DHCP**.
+  In general, IP addreses of servers will be static, and those of clients will be dynamic. (With some exceptions)
   
+#### IP datagaram and encapsulation
+
+![IP datagram](IP datagram.png)  
+
+The IP datagram is the payload of the Ethernet frame. Like this way, every layer adds headers as the data passes down the layers. This process is called**Encapsulation**.  
+![Encapsulation](encapsulation.png)
 
 
