@@ -13,7 +13,7 @@ There are several models such as:
 - OSI model
 
 ## TCP/ IP FIVE LAYER MODEL
-![TCP IP image](TCP IP Model.png)
+![TCP IP image](TCP IP Model.png)  
 
 ![TCP IP diagram](TCP IP example.png)
 
