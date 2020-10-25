@@ -1,6 +1,7 @@
 ### Dear customer,
 
-### Warm Greetings of the day. We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports Yubikey-based-Multi Factor Authentication to log in to your accounts. 
+### Hi! 
+### We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports Yubikey-based-Multi Factor Authentication to log in to your accounts. 
 
 #### What is Multi Factor Authentication (MFA)?
 
