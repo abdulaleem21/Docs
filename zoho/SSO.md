@@ -12,7 +12,7 @@ which is the one that authenticates your access to the Service Provider. Think o
 When you try to access the service provider (Pinterest), it sends a request to the identity provider (Google) to authenticate your access. The identity provider verifies your credentials
 (email address or username), and then sends back the response to the service provider. The service provider, on getting the respone saying your access is valid, logs you in and lets you use the services.  
 
-If you are already logged in to your indentity provider (Google) in the current session, you won't have to enter your credentials. The identity provider verifies your identity automatically.
+If you are already logged in to your identity provider (Google) in the current session, you won't have to enter your credentials. The identity provider verifies your identity automatically.
 
 ## What is SAML?
 
