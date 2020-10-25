@@ -19,7 +19,7 @@ If you are already logged in to your identity provider (Google) in the current s
 The interactions between service provider and identity provider are based on previously fixed arangements. The SP and IdP exchange information with each other through a standard
 established at the time of configuration. There are several methods in which SP and IdP can interact. One of the methods is called **Secure Assertion Markup Language (SAML)**.  
 
-SAML is a eXtensible Markup Language (XML) that lets the service provider send the request to the identity provider, and the identity provider to send back the response to the service provider. 
+SAML is an eXtensible Markup Language (XML) that lets the service provider send the request to the identity provider, and the identity provider to send back the response to the service provider. 
 SAML is essentially the language through which both SP and IdP communicate. 
 
 ## SAML based SSO workflow
