@@ -1,7 +1,7 @@
 ### Dear customer,
 
 ### Hi! 
-### We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports YubiKey-based-Multi Factor Authentication to log in to your accounts. 
+### We at Zuko are introducing a major feature to improve the security of your accounts. Zuko now supports YubiKey-based-Multi Factor Authentication to log in to your accounts. 
 
 #### What is Multi Factor Authentication (MFA)?
 
