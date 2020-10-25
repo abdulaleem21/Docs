@@ -2,4 +2,4 @@
 
 [Computer networking](networking/notes.md)  
 
-[SAML based SSO](zoho/sso.md)
+[SAML based SSO](zoho/SSO.md)
