@@ -1,6 +1,6 @@
 ### Dear customer,
 
-### <p align="center">Warm Greetings of the day. We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports Yubikey-based-Multi Factor Authentication to log in to your accounts.</p> 
+### Warm Greetings of the day. We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports Yubikey-based-Multi Factor Authentication to log in to your accounts. 
 
 #### What is Multi Factor Authentication (MFA)?
 
@@ -42,21 +42,18 @@ Once you have registered the YubiKey with your account, follow the steps to log 
      You will be prompted to connect your YubiKey. 
   3. Connect your YubiKey, and tap the button on the key to log in.  
   
-  
-    
-  
-  
-Go ahead and get your YubiKey now to improve the security of your accounts. If you have any queries, please contact [Zuko's help desk]().  
  
-Let's work together for a safe and secure online presence.  
+#### Go ahead and get your YubiKey now to improve the security of your accounts. If you have any queries, please contact [Zuko's help desk]().  
+ 
+#### Let's work together for a safe and secure online presence.  
 
 Thank you.  
 
 Regards,  
 
-John Doe,   
+**John Doe,   
 Chief Technology Officer,  
-Zuko Inc.  
+Zuko Inc.**  
  
  
   
