@@ -1,11 +1,11 @@
 ### Dear customer,
 
 ### Hi! 
-### We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports Yubikey-based-Multi Factor Authentication to log in to your accounts. 
+### We at Zuko are introducing a major change to improve the security of your accounts. Zuko now supports YubiKey-based-Multi Factor Authentication to log in to your accounts. 
 
 #### What is Multi Factor Authentication (MFA)?
 
-Multi Factor Authentication is an authentication method which requires users to provide two or more verification informations to gain access to resources, 
+Multi Factor Authentication is an authentication method which requires users to provide two or more verification information to gain access to resources, 
 such as your account on Zuko. In traditional Single Factor Authentication (SFA), users have to enter only their username and password to log in to their accounts. 
 But in MFA, along with their credentials, users also have to provide one or more information to log in. 
 This kind of authentication:
@@ -18,13 +18,13 @@ This kind of authentication:
 #### Why YubiKeys?
 
 YubiKeys are different kinds of security keys which let you use MFA to protect your accounts. You can select the YubiKey which better suits your needs, and then  use the security key to enhance the security of your Zuko account. 
-You can even use Yubikeys to access your account securely on Android and iOS mobile phones (If they are supported).  
+You can even use YubiKeys to access your account securely on Android and iOS mobile phones (If they are supported).  
 
 [Click here](https://www.yubico.com/products/) to view the different types of YubiKeys.
 
 [Click here](https://www.yubico.com/in/quiz/) to take a quiz and find out which YubiKey suits your needs better.
 
-#### How to use Yubikey based MFA?
+#### How to use YubiKey based MFA?
 
 Once you have got your YubiKey, follow the steps to register your YubiKey with your Zuko account:
 
